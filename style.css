@@ -1,0 +1,21 @@
+.container{
+    margin-bottom: 100px;
+}
+.caros-bg{
+    background-color: #fceae8;
+   
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.price{
+    color: #ff136f;
+}
+.button-buy{
+    background-image: linear-gradient(to bottom,#ff5b9b 0%,#ff136f 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 8px 8px;
+    color: white;
+    cursor: pointer;
+}
