@@ -19,3 +19,24 @@
     color: white;
     cursor: pointer;
 }
+.cat-1,.cat-2,.cat-3{
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+.cat-1{
+    background-image: linear-gradient(orchid,lightpink);
+}
+.cat-2{
+    background-image: linear-gradient(lightpink,hotpink);
+}
+.cat-3{
+    background-image: linear-gradient(lightblue,blue);
+}
+.categories h1{
+    color: whitesmoke;
+    font-size: 50px;
+}
+.anchor{
+    text-decoration: none;
+}
