@@ -40,3 +40,18 @@
 .anchor{
     text-decoration: none;
 }
+.card{
+    border: none;
+}
+#Subscribe{
+    background-color: #fceae8;
+    padding: 80px 10px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 5px 10px 10px;
+}
+.inpt{
+    border-radius: 5px;
+    border: none;
+    box-shadow: 5px 5px 5px lightgray;
+}
