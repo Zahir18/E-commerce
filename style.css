@@ -55,3 +55,9 @@
     border: none;
     box-shadow: 5px 5px 5px lightgray;
 }
+footer{
+    text-align: center;
+    color: gray;
+    height: 50px;
+    width: 100%;
+}
